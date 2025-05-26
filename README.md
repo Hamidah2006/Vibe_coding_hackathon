@@ -46,6 +46,7 @@ cd your-repo-name
 Live Demo
 
 View Live Project
+https://hamidah2006.github.io/Vibe_coding_hackathon/
 
 Future Improvements
 
